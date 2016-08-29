@@ -20,11 +20,11 @@ description: >-
 app_links: []
 isBasedOnUrl: 'https://youtu.be/uMK0prafzw0'
 title: DIE ANTWOORD - UGLY BOY
-datePublished: '2016-08-28T07:35:22.091Z'
-dateModified: '2016-08-28T07:35:04.607Z'
+datePublished: '2016-08-28T10:19:25.207Z'
+dateModified: '2016-08-28T10:05:25.067Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-08-28-die-antwoord-ugly-boy.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
