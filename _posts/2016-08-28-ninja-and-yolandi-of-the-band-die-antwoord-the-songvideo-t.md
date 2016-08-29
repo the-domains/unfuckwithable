@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-28T09:21:04.743Z'
+datePublished: '2016-08-28T10:20:07.049Z'
 sourcePath: >-
   _posts/2016-08-28-ninja-and-yolandi-of-the-band-die-antwoord-the-songvideo-t.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-28T09:21:04.395Z'
+dateModified: '2016-08-28T10:05:38.075Z'
 title: ''
 publisher: {}
 description: >-
