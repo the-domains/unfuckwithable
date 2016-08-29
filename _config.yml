@@ -1,18 +1,18 @@
-typography_spectrum: 0.9717535623349249
+layout_spectrum: 0.6031962402630597
+typography_spectrum: 0.6444817695301026
+color:
+  brandStrength: 0.9639242147095501
+  lightness: 0.5280452324077487
+  saturation: 0.6532175107859075
+  rhythmicContrast: 0.5846941547933966
+  brandColors:
+    - '#B6BFC7'
+    - '#60737A'
+    - '#FFFFFF'
+    - '#9C0131'
+    - '#000000'
 content_rating:
   adult: true
-color:
-  brandStrength: 0.5294798212125897
-  lightness: 0.516275463392958
-  saturation: 0.4192888862453401
-  rhythmicContrast: 0.7785790532361716
-  brandColors:
-    - '#000000'
-    - '#333333'
-    - '#FF358B'
-    - '#01B0F0'
-    - '#AEEE00'
-layout_spectrum: 0.16082793823443353
 logo: null
 name: Unfuckwithable
 title: Daddy and Babygirl
