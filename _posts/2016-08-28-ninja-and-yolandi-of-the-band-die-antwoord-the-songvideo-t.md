@@ -1,9 +1,11 @@
 ---
-datePublished: '2016-08-28T09:19:41.046Z'
+datePublished: '2016-08-28T09:21:04.743Z'
+sourcePath: >-
+  _posts/2016-08-28-ninja-and-yolandi-of-the-band-die-antwoord-the-songvideo-t.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-28T09:19:24.859Z'
+dateModified: '2016-08-28T09:21:04.395Z'
 title: ''
 publisher: {}
 description: >-
@@ -12,8 +14,6 @@ description: >-
   intensity of it that the song is about strikes a chord with us. The word
   unfuckwithable that we use for this website came to us via this song.
 starred: false
-sourcePath: >-
-  _posts/2016-08-28-ninja-and-yolandi-of-the-band-die-antwoord-the-songvideo-t.md
 _type: Blurb
 
 ---
