@@ -1,16 +1,14 @@
-layout_spectrum: 0.1910555735230446
-typography_spectrum: 0.5505640709307045
+layout_spectrum: 0.16082793823443353
+typography_spectrum: 0.9717535623349249
 color:
-  brandStrength: 0.2530881827697158
-  lightness: 0.31327162007801235
-  saturation: 0.2004339552950114
-  rhythmicContrast: 0.7344082077033818
+  brandStrength: 0.5294798212125897
+  lightness: 0.516275463392958
+  saturation: 0.4192888862453401
+  rhythmicContrast: 0.7785790532361716
   brandColors:
-    - '#B6BFC7'
-    - '#60737A'
-    - '#FFFFFF'
-    - '#9C0131'
-    - '#000000'
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
 name: Unfuckwithable
-title: Daddy and Babygirl
-description: Once Upon A Time
